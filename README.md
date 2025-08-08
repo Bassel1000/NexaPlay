@@ -9,3 +9,6 @@ NexaPlay is gaming launcher/Store like steam and epic games made with java still
 
 ### Note: 
 The app is still in the making and updates will be released specially to UI interface and purchasing. <br>
+
+## UI Update (8/8/2025):
+Try the latest UI update now! 
